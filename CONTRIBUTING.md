@@ -23,11 +23,11 @@ Typical steps to contribute:
 
 1. Fork the repo on GitHub.
 
-1. Create a branch and make your edits on your branch, pushing back to your fork.
+2. Create a branch and make your edits on your branch, pushing back to your fork.
 
-1. Ensure that your changes are working, pass any linting and tests in the project. Add tests and documentation as needed.
+3. Ensure that your changes are working, pass any linting and tests in the project. Add tests and documentation as needed.
 
-1. Submit a pull request to merge your fork's branch into this repository, via GitHub.
+4. Submit a pull request to merge your fork's branch into this repository, via GitHub.
 
 ## Questions or Thoughts?
 
